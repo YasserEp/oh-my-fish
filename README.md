@@ -18,3 +18,11 @@ get external ip address
 get inerfaces and io and mac
 
 ![alt text](https://github.com/YasserEp/oh-my-fish/blob/main/.config/1.png)
+
+git clone https://github.com/YasserEp/oh-my-fish
+
+cd oh-my-fish
+
+chmod +x setup.sh
+
+./setup.sh
