@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+chmod +x ~/oh-my-fish/.config/*
 if ! command -v fish > /dev/null; then
 echo install fish !
 exit 0
