@@ -1,4 +1,4 @@
-# fish
+# oh-my-fish
 fish shell theme.
 title,title on box, hostname or username, 8 custom ps1, 163 color and custom hex color and other...
 ![alt text](https://github.com/YasserEp/oh-my-fish/blob/main/.config/2.png)
