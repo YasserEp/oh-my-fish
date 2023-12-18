@@ -1,0 +1,2 @@
+sed -i "s/background=.*/background=#$1/" ~/.termux/colors.properties
+termux-reload-settings
