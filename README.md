@@ -12,4 +12,9 @@ to change background color
 -eip
 
 get external ip address 
+
+-cnet
+
+get inerfaces and io and mac
+
 ![alt text](https://github.com/YasserEp/oh-my-fish/blob/main/.config/1.png)
